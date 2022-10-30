@@ -12,7 +12,7 @@ class Navbar extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          EthSwap
+          LVTSwap Protocol
         </a>
 
         <ul className="navbar-nav px-3">

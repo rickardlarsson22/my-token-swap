@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import tokenLogo from '../token-logo.png'
+import tokenLogo from '../hdlogo-karang-taruna-31372.png'
 import ethLogo from '../eth-logo.png'
 
 class BuyForm extends Component {
@@ -62,7 +62,7 @@ class BuyForm extends Component {
           <div className="input-group-append">
             <div className="input-group-text">
               <img src={tokenLogo} height='32' alt=""/>
-              &nbsp; DApp
+              &nbsp; LVT
             </div>
           </div>
         </div>
